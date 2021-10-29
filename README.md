@@ -1,5 +1,5 @@
 
-![Logo](https://imgur.com/E3mftQr)
+![Logo](https://i.imgur.com/E3mftQr.png)
 
 
 ## Materiais de Apoio
