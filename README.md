@@ -1,5 +1,5 @@
 
-![Logo](https://tinyurl.com/9d2bnnd8)
+![Logo](https://imgur.com/E3mftQr)
 
 
 ## Materiais de Apoio
