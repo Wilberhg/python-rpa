@@ -22,7 +22,7 @@
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 - [pandas](https://pandas.pydata.org/docs/)
 - [xlsxwriter](https://xlsxwriter.readthedocs.io/)
-- [selenium](https://selenium-python.readthedocs.io/)
+- [Selenium](https://selenium-python.readthedocs.io/)
 
 
 ## Resumo dos Arquivos
