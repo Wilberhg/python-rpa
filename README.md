@@ -8,6 +8,7 @@
  - [Aula 2 - Listas, Dicionários e Loopings](https://bit.ly/2Zvfy7w)
  - [Aula 3 - Funções, Strings, Erros e Datas](https://bit.ly/2ZvfLrk)
  - [Aula 4 - Bibliotecas, Excel e TXTs](https://bit.ly/3CpRn8N)
+ - [Aula 5 - Selenium](https://bit.ly/3BNTz8Z)
 
 
 ## Documentações
