@@ -23,6 +23,11 @@
 - [pandas](https://pandas.pydata.org/docs/)
 - [xlsxwriter](https://xlsxwriter.readthedocs.io/)
 - [Selenium](https://selenium-python.readthedocs.io/)
+- [re](https://docs.python.org/pt-br/3/library/re.html)
+- [Requests](https://docs.python-requests.org/en/latest/)
+- [smtplib](https://docs.python.org/pt-br/3/library/smtplib.html)
+- [pyodbc](https://github.com/mkleehammer/pyodbc/wiki)
+- [sqlite3](https://docs.python.org/3/library/sqlite3.html)
 
 
 ## Resumo dos Arquivos
