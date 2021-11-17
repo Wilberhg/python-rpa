@@ -1,5 +1,3 @@
-<style>table, th, td {border:1px solid black} td {text-align:center} table {width:100%}</style>
-
 ![Logo](https://i.imgur.com/E3mftQr.png)
 
 
@@ -15,27 +13,27 @@
 
 ## Documentações
 <br>
-<table>
+<table style="border:1px solid black;width:100%">
     <tr>
-        <td><a href="https://docs.python.org/pt-br/3/" target="_blank">Python</a>
-        <td><a href="https://docs.python.org/3/library/datetime.html" target="_blank">datetime</a>
-        <td><a href="https://docs.python.org/pt-br/3/library/os.html" target="_blank">os</a>
-        <td><a href="https://docs.python.org/pt-br/3/library/glob.html" target="_blank">glob</a>
-        <td><a href="https://docs.python.org/pt-br/3/library/shutil.html" target="_blank">shutil</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/pt-br/3/" target="_blank">Python</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/3/library/datetime.html" target="_blank">datetime</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/pt-br/3/library/os.html" target="_blank">os</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/pt-br/3/library/glob.html" target="_blank">glob</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/pt-br/3/library/shutil.html" target="_blank">shutil</a>
     </tr>
     <tr>
-        <td><a href="https://xlrd.readthedocs.io/en/latest/" target="_blank">xlrd</a>
-        <td><a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank">openpyxl</a>
-        <td><a href="https://pandas.pydata.org/docs/" target="_blank">pandas</a>
-        <td><a href="https://xlsxwriter.readthedocs.io/" target="_blank">xlsxwriter</a>
-        <td><a href="https://selenium-python.readthedocs.io/" target="_blank">Selenium</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://xlrd.readthedocs.io/en/latest/" target="_blank">xlrd</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank">openpyxl</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://pandas.pydata.org/docs/" target="_blank">pandas</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://xlsxwriter.readthedocs.io/" target="_blank">xlsxwriter</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://selenium-python.readthedocs.io/" target="_blank">Selenium</a>
     </tr>
     <tr>
-        <td><a href="https://docs.python.org/pt-br/3/library/re.html" target="_blank">re</a>
-        <td><a href="https://docs.python-requests.org/en/latest/" target="_blank">Requests</a>
-        <td><a href="https://docs.python.org/pt-br/3/library/smtplib.html" target="_blank">smtplib</a>
-        <td><a href="https://github.com/mkleehammer/pyodbc/wiki" target="_blank">pyodbc</a>
-        <td><a href="https://docs.python.org/3/library/sqlite3.html" target="_blank">sqlite3</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/pt-br/3/library/re.html" target="_blank">re</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://docs.python-requests.org/en/latest/" target="_blank">Requests</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/pt-br/3/library/smtplib.html" target="_blank">smtplib</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://github.com/mkleehammer/pyodbc/wiki" target="_blank">pyodbc</a>
+        <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/3/library/sqlite3.html" target="_blank">sqlite3</a>
     </tr>
 </table>
 <br>
