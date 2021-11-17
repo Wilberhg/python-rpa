@@ -6,22 +6,22 @@ class Cachorro:
         self._raca = raca.title()
 
     def atualiza_nome(self, novo_nome):
-        self.nome = novo_nome
+        self._nome = novo_nome
 
     def atualiza_idade(self, novo_idade):
-        self.idade = novo_idade
+        self._idade = novo_idade
 
     def atualiza_raca(self, novo_raca):
-        self.nome = novo_raca
+        self._raca = novo_raca
 
     def informacoes(self):
-        print(f'O cachorro da raça {self.raca} se chama {self.nome} e possui {self.idade} anos.')
+        print(f'O cachorro da raça {self._raca} se chama {self._nome} e possui {self._idade} anos.')
 
     def sentar(self):
-        print(f'O cachorro {self.nome} está sentado agora!')
+        print(f'O cachorro {self._nome} está sentado agora!')
 
     def rolar(self):
-        print(f'O cachorro {self.nome} está rolando agora!')
+        print(f'O cachorro {self._nome} está rolando agora!')
 
     def deitar(self):
-        print(f'O cachorro {self.nome} está deitado agora!')
+        print(f'O cachorro {self._nome} está deitado agora!')
