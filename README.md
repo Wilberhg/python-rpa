@@ -9,8 +9,8 @@
  - [Aula 3 - Funções, Strings, Erros e Datas](https://bit.ly/2ZvfLrk)
  - [Aula 4 - Bibliotecas, Excel e TXTs](https://bit.ly/3CpRn8N)
  - [Aula 5 - Selenium](https://bit.ly/3BNTz8Z)
- - [Aula 7 - RegEx e APIs](https://bit.ly/3CsyuBj)
- - [Aula 8 - Email, Banco de Dados e OO](http://localhost/)
+ - [Aula 7 - RegEx e APIs](https://bit.ly/3HsBZM2)
+ - [Aula 8 - Email, Banco de Dados e OO](https://bit.ly/3CsyuBj)
 
 
 ## Documentações
