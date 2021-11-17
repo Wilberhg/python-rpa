@@ -12,7 +12,7 @@
  - [Aula 8 - Email, Banco de Dados e OO](https://bit.ly/3CsyuBj)
 
 ## Documentações
-<br>
+
 <table style="border:1px solid black;width:100%">
     <tr>
         <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/pt-br/3/" target="_blank">Python</a>
@@ -36,7 +36,6 @@
         <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/3/library/sqlite3.html" target="_blank">sqlite3</a>
     </tr>
 </table>
-<br>
 
 ## Resumo dos Arquivos
 
