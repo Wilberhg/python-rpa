@@ -13,7 +13,7 @@
 
 ## Documentações
 
-<table style="border:1px solid black">
+<table style="border:1px solid black;width:100%;display:table">
     <tr>
         <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/pt-br/3/" target="_blank">Python</a></td>
         <td style="text-align:center;border:1px solid black"><a href="https://docs.python.org/3/library/datetime.html" target="_blank">datetime</a></td>
