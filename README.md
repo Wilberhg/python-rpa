@@ -49,23 +49,59 @@ Demonstração do Selenium executando uma interação web
 
 #### Aula1 > Exercicios > calculadora_imc.py
 
-Código fonte do código que efetua cálculo de IMC
+Script que efetua cálculo de IMC
 
 #### Aula1 > Exercicios > demo_google.py
 
-Código fonte do código que valida a obrigatoriedade das eleições de acordo com a idade
+Script que valida a obrigatoriedade das eleições de acordo com a idade
 
 #### Aula2 > Exercicios > reordenacao.py
 
-Código fonte do código que reordena uma lista
+Script que reordena uma lista
 
 #### Aula2 > Exercicios > tabuada.py
 
-Código fonte do código que efetua a tabuada de 1 à 10 de um número fornecido pelo usuário
+Script que efetua a tabuada de 1 à 10 de um número fornecido pelo usuário
+
+#### Aula6 > Projeto > booking.py
+
+Script do projeto que coleta dados de estadia do Booking utilizando data de check-in, data de check-out e a cidade desejada.
+
+#### Aula7 > Collection > Aula7.postman_collection.json
+
+Arquivo .json que possui um compilado de requisições em APIs públicas demonstrando a arquitetura REST.
+
+#### Aula8 > Demos > classe_cachorro.py
+
+Script contendo uma visão inicial sobre Orientação à Objetos utilizando como base uma classe "Cachorro".
+
+#### Aula8 > Demos > email_com_ou_sem_anexo.py
+
+Script contendo disparo de email utilizando o protocolo SMTP.
+
+#### Aula8 > Materiais > SUCOS_VENDAS.BAK
+
+Arquivo de backup com tabelas do banco de dados MS SQL.
+
+#### Aula8 > Materiais > aula8.db
+
+Arquivo de backup com tabelas do banco de dados SQLite.
+
+#### Aula8 > Materiais > carregar_banco.py
+
+Script contendo automação para efetuar carga no banco de dados SQLite.
+
+#### Aula8 > Materiais > data.json
+
+Arquivo contendo dados brutos para serem carregados em bancos de dados.
+
 ## Apêndice
 
 Horário das aulas: Terças e Quintas - 20:00 às 21:30
 
+## Mídias Sociais
+
+<br><a href="https://discord.gg/92sEPZB769"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" style="width:42px;height:42px;align:middle;"></a> <a href=""><img src="https://i.imgur.com/2FjBwkh.png" style="width:42px;height:42px;align:middle;"></a>
 
 ## Authors
 
