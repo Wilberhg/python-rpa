@@ -101,7 +101,7 @@ Horário das aulas: Terças e Quintas - 20:00 às 21:30
 
 ## Mídias Sociais
 
-<br><a href="https://discord.gg/92sEPZB769"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" style="width:42px;height:42px;align:middle;"></a> <a href=""><img src="https://i.imgur.com/2FjBwkh.png" style="width:42px;height:42px;align:middle;"></a>
+<br><a href="https://discord.gg/92sEPZB769"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" style="width:42px;height:42px;align:middle;"></a> <a href="https://t.me/+lfjaLmRvdoUxY2Ix"><img src="https://i.imgur.com/2FjBwkh.png" style="width:42px;height:42px;align:middle;"></a>
 
 ## Authors
 
