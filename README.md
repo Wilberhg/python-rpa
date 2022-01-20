@@ -11,7 +11,7 @@
 
 ## Materiais de Apoio
 
- - [Aula 1 - Introdução à Python](https://bit.ly/3mpKQ8J)
+ - [Aula 1 - Introdução, Variáveis, Tipagem, Condicionais e Comentários ](https://bit.ly/3mpKQ8J)
  - [Aula 2 - Listas, Dicionários e Loopings](https://bit.ly/2Zvfy7w)
  - [Aula 3 - Funções, Strings, Erros e Datas](https://bit.ly/2ZvfLrk)
  - [Aula 4 - Bibliotecas, Excel e TXTs](https://bit.ly/3CpRn8N)
