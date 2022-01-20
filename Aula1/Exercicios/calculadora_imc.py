@@ -5,7 +5,7 @@ multi = altura * altura
 
 imc = peso / multi
 
-print('\nSeu IMC é de %.2f' % imc)
+print(f'\nSeu IMC é de {imc:.2f}')
 
 if imc < 18.5:
     print('\nE você está abaixo do peso!')
