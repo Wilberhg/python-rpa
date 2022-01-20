@@ -1,5 +1,13 @@
-[![Logo](https://i.imgur.com/E3mftQr.png)](https://www.python.org/)
+## [![Logo](https://i.imgur.com/E3mftQr.png)](https://www.python.org/)
 
+<p align="center">
+  <a href="#materiais-de-apoio">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#documentações">Documentações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#resumo-dos-arquivos">Arquivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#apêndice">Apêndice</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#mídias-sociais">Mídias Sociais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#autores">Autores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Materiais de Apoio
 
@@ -103,7 +111,7 @@ Horário das aulas: Terças e Quintas - 20:00 às 21:30
 
 <br><a href="https://discord.gg/92sEPZB769"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" style="width:42px;height:42px;align:middle;"></a> <a href="https://t.me/+lfjaLmRvdoUxY2Ix"><img src="https://i.imgur.com/2FjBwkh.png" style="width:42px;height:42px;align:middle;"></a>
 
-## Authors
+## Autores
 
 - [@Wilberhg](https://github.com/Wilberhg)
 - [@ThomashSantos](https://github.com/ThomashSantos)
