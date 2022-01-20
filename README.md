@@ -11,7 +11,7 @@
 
 ## :books: Materiais de Apoio
 
- - [Aula 1 - Introdução, Variáveis, Tipagem, Condicionais e Comentários ](https://bit.ly/3mpKQ8J)
+ - [Aula 1 - Introdução, Variáveis, Tipagem, Condicionais e Comentários](https://bit.ly/3mpKQ8J)
  - [Aula 2 - Listas, Dicionários e Loopings](https://bit.ly/2Zvfy7w)
  - [Aula 3 - Funções, Strings, Erros e Datas](https://bit.ly/2ZvfLrk)
  - [Aula 4 - Bibliotecas, Excel e TXTs](https://bit.ly/3CpRn8N)
@@ -47,59 +47,59 @@
 
 ## :label: Resumo dos Arquivos
 
-#### Aula1 > Demos > demo_execucao.py
+#### Aula1 > Demos > [demo_execucao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_execucao.py)
 
 Demonstração de erro no Python
 
-#### Aula1 > Demos > demo_google.py
+#### Aula1 > Demos > [demo_google.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_google.py)
 
 Demonstração do Selenium executando uma interação web
 
-#### Aula1 > Exercicios > calculadora_imc.py
+#### Aula1 > Exercicios > [calculadora_imc.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Exercicios/calculadora_imc.py)
 
 Script que efetua cálculo de IMC
 
-#### Aula1 > Exercicios > demo_google.py
+#### Aula1 > Exercicios > [demo_google.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Exercicios/validador_eleicao.py)
 
 Script que valida a obrigatoriedade das eleições de acordo com a idade
 
-#### Aula2 > Exercicios > reordenacao.py
+#### Aula2 > Exercicios > [reordenacao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula2/Exercicios/reordenacao.py)
 
 Script que reordena uma lista
 
-#### Aula2 > Exercicios > tabuada.py
+#### Aula2 > Exercicios > [tabuada.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula2/Exercicios/tabuada.py)
 
 Script que efetua a tabuada de 1 à 10 de um número fornecido pelo usuário
 
-#### Aula6 > Projeto > booking.py
+#### Aula6 > Projeto > [booking.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula6/Projeto/booking.py)
 
 Script do projeto que coleta dados de estadia do Booking utilizando data de check-in, data de check-out e a cidade desejada.
 
-#### Aula7 > Collection > Aula7.postman_collection.json
+#### Aula7 > Collection > [Aula7.postman_collection.json](https://github.com/Wilberhg/python-rpa/blob/main/Aula7/Collection/Aula7.postman_collection.json)
 
 Arquivo .json que possui um compilado de requisições em APIs públicas demonstrando a arquitetura REST.
 
-#### Aula8 > Demos > classe_cachorro.py
+#### Aula8 > Demos > [classe_cachorro.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Demos/classe_cachorro.py)
 
 Script contendo uma visão inicial sobre Orientação à Objetos utilizando como base uma classe "Cachorro".
 
-#### Aula8 > Demos > email_com_ou_sem_anexo.py
+#### Aula8 > Demos > [email_com_ou_sem_anexo.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Demos/email_com_ou_sem_anexo.py)
 
 Script contendo disparo de email utilizando o protocolo SMTP.
 
-#### Aula8 > Materiais > SUCOS_VENDAS.BAK
+#### Aula8 > Materiais > [SUCOS_VENDAS.BAK](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Materiais/SUCOS_VENDAS.BAK)
 
-Arquivo de backup com tabelas do banco de dados MS SQL.
+Arquivo de backup com tabelas do banco de dados MS SQL. Créditos: [Alura](https://www.alura.com.br/)
 
-#### Aula8 > Materiais > aula8.db
+#### Aula8 > Materiais > [aula8.db](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Materiais/aula8.db)
 
 Arquivo de backup com tabelas do banco de dados SQLite.
 
-#### Aula8 > Materiais > carregar_banco.py
+#### Aula8 > Materiais > [carregar_banco.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Materiais/carregar_banco.py)
 
 Script contendo automação para efetuar carga no banco de dados SQLite.
 
-#### Aula8 > Materiais > data.json
+#### Aula8 > Materiais > [data.json](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Materiais/data.json)
 
 Arquivo contendo dados brutos para serem carregados em bancos de dados.
 
