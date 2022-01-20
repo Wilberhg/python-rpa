@@ -9,7 +9,7 @@
   <a href="#autores">Autores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## Materiais de Apoio
+## :books: Materiais de Apoio
 
  - [Aula 1 - Introdução, Variáveis, Tipagem, Condicionais e Comentários ](https://bit.ly/3mpKQ8J)
  - [Aula 2 - Listas, Dicionários e Loopings](https://bit.ly/2Zvfy7w)
@@ -19,7 +19,7 @@
  - [Aula 7 - RegEx e APIs](https://bit.ly/3HsBZM2)
  - [Aula 8 - Email, Banco de Dados e OO](https://bit.ly/3CsyuBj)
 
-## Documentações
+## :clipboard: Documentações
 
 <table style="border:1px solid black;width:100%;display:table">
     <tr>
@@ -45,7 +45,7 @@
     </tr>
 </table>
 
-## Resumo dos Arquivos
+## :label: Resumo dos Arquivos
 
 #### Aula1 > Demos > demo_execucao.py
 
@@ -103,15 +103,15 @@ Script contendo automação para efetuar carga no banco de dados SQLite.
 
 Arquivo contendo dados brutos para serem carregados em bancos de dados.
 
-## Apêndice
+## :warning: Apêndice
 
 Horário das aulas: Terças e Quintas - 20:00 às 21:30
 
-## Mídias Sociais
+## :link: Mídias Sociais
 
 <br><a href="https://discord.gg/92sEPZB769"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" style="width:42px;height:42px;align:middle;"></a> <a href="https://t.me/+lfjaLmRvdoUxY2Ix"><img src="https://i.imgur.com/2FjBwkh.png" style="width:42px;height:42px;align:middle;"></a>
 
-## Autores
+## :pencil2: Autores
 
 - [@Wilberhg](https://github.com/Wilberhg)
 - [@ThomashSantos](https://github.com/ThomashSantos)
