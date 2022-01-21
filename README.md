@@ -1,15 +1,6 @@
 ## [![Logo](https://i.imgur.com/E3mftQr.png)](https://www.python.org/)
 
-<p align="center">
-  <a href="#materiais-de-apoio">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#documentações">Documentações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#resumo-dos-arquivos">Arquivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#apêndice">Apêndice</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mídias-sociais">Mídias Sociais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#autores">Autores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-## :books: Materiais de Apoio
+## <img src="https://img.icons8.com/external-prettycons-flat-prettycons/50/000000/external-books-education-prettycons-flat-prettycons.png" style="height:20px;width:20px;"/> Materiais de Apoio
 
  - [Aula 1 - Introdução, Variáveis, Tipagem, Condicionais e Comentários](https://bit.ly/3mpKQ8J)
  - [Aula 2 - Listas, Dicionários e Loopings](https://bit.ly/2Zvfy7w)
@@ -19,7 +10,7 @@
  - [Aula 7 - RegEx e APIs](https://bit.ly/3HsBZM2)
  - [Aula 8 - Email, Banco de Dados e OO](https://bit.ly/3CsyuBj)
 
-## :clipboard: Documentações
+## <img src="https://img.icons8.com/stickers/100/000000/documents.png" style="height:20px;width:20px;"/> Documentações
 
 <table style="border:1px solid black;width:100%;display:table">
     <tr>
@@ -45,7 +36,7 @@
     </tr>
 </table>
 
-## :label: Resumo dos Arquivos
+## <img src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/50/000000/external-folder-mobile-user-interface-tulpahn-outline-color-tulpahn.png" style="height:20px;width:20px;"/> Resumo dos Arquivos
 
 #### Aula1 > Demos > [demo_execucao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_execucao.py)
 
@@ -103,15 +94,19 @@ Script contendo automação para efetuar carga no banco de dados SQLite.
 
 Arquivo contendo dados brutos para serem carregados em bancos de dados.
 
-## :warning: Apêndice
+## <img src="https://img.icons8.com/fluency/50/000000/general-warning-sign.png" style="height:24px;width:24px;"/> Apêndice
 
 Horário das aulas: Terças e Quintas - 20:00 às 21:30
 
-## :link: Mídias Sociais
+## <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/50/000000/external-social-network-touchless-society-parzival-1997-flat-parzival-1997.png" style="height:24px;width:24px;"/> Mídias Sociais
 
 <br><a href="https://discord.gg/92sEPZB769"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" style="width:42px;height:42px;align:middle;"></a> <a href="https://t.me/+lfjaLmRvdoUxY2Ix"><img src="https://i.imgur.com/2FjBwkh.png" style="width:42px;height:42px;align:middle;"></a>
 
-## :pencil2: Autores
+## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/000000/external-copyright-seo-flatart-icons-lineal-color-flatarticons.png" style="height:24px;width:24px"/> Autores
 
 - [@Wilberhg](https://github.com/Wilberhg)
 - [@ThomashSantos](https://github.com/ThomashSantos)
+
+## <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-copyright-seo-and-media-flatart-icons-flat-flatarticons-1.png" style="height:24px;width:24px"/> Créditos
+
+#### Ícones distribuídos por [Icons8](https://icons8.com/)
