@@ -1,0 +1,8 @@
+nome = input("Por favor, insira seu nome completo: ").strip().title()
+nome_separado = nome.split(' ')
+quantidade_nome = len(nome_separado)
+print(f'\nSeu nome completo é: "{nome}"')
+print(f'\nSeu primeiro nome é "{nome_separado[0]}"')
+print(f'\nSeu último nome é "{nome_separado[-1]}"')
+print(f'\nSeu nome possui {len(nome)} caracteres\n')
+input('Pressioner "Enter" para fechar o programa')
