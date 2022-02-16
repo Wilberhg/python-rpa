@@ -186,6 +186,15 @@ Arquivo contendo dados brutos para serem carregados em bancos de dados.
 
 </details><br>
 
+## :snake: Extensões - VSCode
+
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [autoDocstring - Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
 ## :warning: Apêndice
 
 Horário das aulas: Terças e Quintas - 20:00 às 21:30
